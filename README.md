@@ -1,2 +1,1 @@
-# izimoni-cryptotrading
-Izimoni cryptotrading bots
+# https://github.com/juancarlospaco/izimoni-cryptotrading/releases
